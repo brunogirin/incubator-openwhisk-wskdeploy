@@ -1,0 +1,16 @@
+# Licensed to the Apache Software Foundation (ASF) under one or more contributor
+# license agreements; and to You under the Apache License, Version 2.0.
+
+# Example: Basic Hello World using a NodeJS (JavaScript) action
+packages:
+  hello_conductor_package:
+    version: 1.0
+    license: Apache-2.0
+    actions:
+      hello_world:
+        function: src/hello.js
+      hello_plus:
+        function: src/hello_plus.js
+      hello_conductor:
+        function: src/hello_conductor.js
+        conductor: true

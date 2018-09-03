@@ -168,7 +168,7 @@ For convenience, the Packages and Actions grammar can be found here:
   <tr>
     <td><a href="wskdeploy_apigateway_http.md#api-gateway-http-response">&lt;&lt;&nbsp;previous</a></td>
     <td><a href="programming_guide.md#guided-examples">Example Index</a></td>
-    <!--<td><a href="">next&nbsp;&gt;&gt;</a></td>-->
+    <td><a href="wskdeploy_composition_conductor.md#composition-with-conductor-actions">next&nbsp;&gt;&gt;</a></td>
   </tr>
 </table>
 </div>
